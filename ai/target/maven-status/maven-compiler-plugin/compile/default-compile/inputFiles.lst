@@ -1,0 +1,8 @@
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\AiApplication.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Controller\ChatController.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Dto\ChatRequest.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Dto\ChatResponse.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Entity\MessageEntity.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Repository\MessageRepo.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Service\AiService.java
+C:\Users\nofil\Desktop\ai\src\main\java\org\ellaa\ai\Service\MessageService.java
